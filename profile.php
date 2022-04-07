@@ -37,7 +37,7 @@ $row = $result->fetch_assoc();
                                   echo "href=\"adminpage.php\"";
                                 } else {
                                   echo "href=\"index.php\"";
-                                } ?>>Team 1's <?php if ($admin) {
+                                } ?>>Team 5's <?php if ($admin) {
                                                       echo "Admin Page";
                                                     } else {
                                                       echo "Doctor Finder";
